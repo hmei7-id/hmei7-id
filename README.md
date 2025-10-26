@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **hmei7-id**
 
-![wave]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4))
+![profile](https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4)
 
 > **Profile views · GitHub followers**
 
