@@ -1,6 +1,13 @@
 # 👋 Hi, I’m **hmei7-id**
 
-![profile](https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4)
+<p align="center">
+  <marquee direction="right" behavior="alternate" scrollamount="5">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+    <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="180" style="border-radius:50%">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  </marquee>
+</p>
+
 
 > **Profile views · GitHub followers**
 
