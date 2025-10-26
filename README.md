@@ -43,15 +43,6 @@
 
 ---
 
-## 🛠️ Technical Skills (visualized)
-
-Below is a live radar chart representing my key technical skills.
-
-![Skill Wheel](https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Web%20App%20Sec'%2C'API%20Sec'%2C'OSINT'%2C'Python'%2C'Android%20Pentest'%2C'Reverse'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Level'%2Cdata%3A%5B90%2C80%2C85%2C88%2C70%2C60%5D%2CbackgroundColor%3A'rgba(255%2C99%2C132%2C0.2)'%2CborderColor%3A'rgb(255%2C99%2C132)'%2CpointBackgroundColor%3A'rgb(255%2C99%2C132)'%7D%5D%7D%2Coptions%3A%7Bscale%3A%7Bticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%7D%7D%7D%7D)
-
-
----
-
 ## 🔐 Web Application Security (high level)
 - **Injection & Parsing:** SQLi · NoSQLi · Command Injection · XPath Injection · XXE  
 - **Cross-Site & Client Attacks:** XSS · HTML Injection · CSRF · Clickjacking · Web Cache Poisoning  
@@ -116,15 +107,6 @@ Explore my projects on GitHub: https://github.com/hmei7-id
 
 ## 🌍 Languages
 - English: Fluent  
-- Hindi: Fluent  
-- Bengali: Fluent  
-- Assamese: Fluent
-
----
-
-## 🎓 Education
-- Secondary (10th): National Institute Of Open Schooling  
-- Higher Secondary: Bongaigaon College (Fine Arts)
 
 ---
 
