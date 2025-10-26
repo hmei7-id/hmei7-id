@@ -1,15 +1,24 @@
-# 👋 Hi, I’m **hmei7-id**
+<h1 align="center">👋 Hi, I’m <strong>hmei7-id</strong></h1>
+
+<hr>
 
 <p align="center">
-  <marquee direction="right" behavior="alternate" scrollamount="5">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-    <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="180" style="border-radius:50%">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-  </marquee>
+  <!-- Kiri animasi cybersecurity -->
+  <img src="https://media.giphy.com/media/Y0b2MP5tuj8Y4jM2e8/giphy.gif" width="120" alt="Cyber Left Animation">
+
+  <!-- Logo tengah -->
+  <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="220" style="border-radius:50%; box-shadow: 0 0 25px #00ffff;" alt="hmei7-id Logo">
+
+  <!-- Kanan animasi cybersecurity -->
+  <img src="https://media.giphy.com/media/H4uE4sGgGvNHi/giphy.gif" width="120" alt="Cyber Right Animation">
 </p>
 
+<hr>
 
-> **Profile views · GitHub followers**
+<p align="center">
+  <i>Profile views · GitHub followers</i>
+</p>
+
 
 ---
 
