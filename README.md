@@ -1,17 +1,5 @@
 <h1 align="center">👋 Hi, I’m <strong>hmei7</strong></h1>
 
-<hr>
-
-<!-- Cyber animated header -->
-<p align="center">
-
-  <!-- Center logo -->
-  <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="230" style="border-radius:50%; box-shadow: 0 0 25px #00ffff; border: 2px solid #00ffff;" alt="hmei7-id Logo">
-
-</p>
-
-<hr>
-
 <p align="center">
   <i>Profile views · GitHub followers</i>
 </p>
