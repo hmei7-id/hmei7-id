@@ -122,6 +122,3 @@ Explore my projects on GitHub: https://github.com/hmei7-id
 > ✨ “Cybersecurity isn’t just about hacking, it’s about protecting what matters.”
 
 ---
-
-### Want a custom animated README card or a real interactive dashboard?
-I can generate a custom SVG badge or a GIF-based hero (animated) and integrate charts with QuickChart or GitHub Stats. Tell me which parts to emphasize and I’ll produce a ready-to-commit README + assets.
