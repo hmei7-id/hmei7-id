@@ -2,13 +2,16 @@
 
 <hr>
 
-<!-- Animated Cyber Left & Right -->
+<!-- Cyber animated header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/terminal.gif" width="130" alt="Cyber Animation Left">
+  <!-- Left cyber animation -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cyber-left.gif" width="140" alt="Cyber Left Animation">
 
-  <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="240" style="border-radius:50%; box-shadow: 0 0 35px #00ffff; border: 2px solid #00ffff;" alt="hmei7-id Logo">
+  <!-- Center logo -->
+  <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="230" style="border-radius:50%; box-shadow: 0 0 25px #00ffff; border: 2px solid #00ffff;" alt="hmei7-id Logo">
 
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif" width="130" alt="Cyber Animation Right">
+  <!-- Right cyber animation -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cyber-right.gif" width="140" alt="Cyber Right Animation">
 </p>
 
 <hr>
@@ -16,8 +19,6 @@
 <p align="center">
   <i>Profile views · GitHub followers</i>
 </p>
-
-
 
 ---
 
