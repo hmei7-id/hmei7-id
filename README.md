@@ -2,15 +2,13 @@
 
 <hr>
 
+<!-- Animated Cyber Left & Right -->
 <p align="center">
-  <!-- Kiri animasi cybersecurity -->
-  <img src="https://media.giphy.com/media/Y0b2MP5tuj8Y4jM2e8/giphy.gif" width="120" alt="Cyber Left Animation">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/terminal.gif" width="130" alt="Cyber Animation Left">
 
-  <!-- Logo tengah -->
-  <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="220" style="border-radius:50%; box-shadow: 0 0 25px #00ffff;" alt="hmei7-id Logo">
+  <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="240" style="border-radius:50%; box-shadow: 0 0 35px #00ffff; border: 2px solid #00ffff;" alt="hmei7-id Logo">
 
-  <!-- Kanan animasi cybersecurity -->
-  <img src="https://media.giphy.com/media/H4uE4sGgGvNHi/giphy.gif" width="120" alt="Cyber Right Animation">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif" width="130" alt="Cyber Animation Right">
 </p>
 
 <hr>
@@ -18,6 +16,7 @@
 <p align="center">
   <i>Profile views · GitHub followers</i>
 </p>
+
 
 
 ---
