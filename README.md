@@ -5,13 +5,13 @@
 <!-- Cyber animated header -->
 <p align="center">
   <!-- Left cyber animation -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cyber-left.gif" width="140" alt="Cyber Left Animation">
+ <div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
   <!-- Center logo -->
   <img src="https://avatars.githubusercontent.com/u/215584030?s=400&u=542bddc60e163a8951e590104259efa75a309c49&v=4" width="230" style="border-radius:50%; box-shadow: 0 0 25px #00ffff; border: 2px solid #00ffff;" alt="hmei7-id Logo">
 
-  <!-- Right cyber animation -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cyber-right.gif" width="140" alt="Cyber Right Animation">
 </p>
 
 <hr>
